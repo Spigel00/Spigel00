@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 What I'm currently working on<br>Building a psychology-first dating app and prototyping an AI-powered exosuit arm.<br><br>🤝 I'm looking to collaborate on<br>Mechatronics projects and creative AI tools for storytellers.<br><br>📚 I'm currently learning<br>Deep Learning, Generative AI, and full-stack dev with React + FastAPI.<br><br>💬 Ask me about<br>FastAPI, React, and turning wild ideas into working prototypes.<br><br>😄 Fun fact<br>I mix tech with storytelling—debugging code by day, crafting plots by night.
+👨‍💻 What I'm currently working on<br>Building a framework for controlling high energetic plasma in reactors.<br><br>🤝 I'm looking to collaborate on<br>Mechatronics projects and creative AI tools for storytellers.<br><br>📚 I'm currently learning<br>Deep Learning, Generative AI, and full-stack dev with React + FastAPI.<br><br>💬 Ask me about<br>FastAPI, React, and turning wild ideas into working prototypes.<br><br>😄 Fun fact<br>I mix tech with storytelling—debugging code by day, crafting plots by night.
 
 
 # 💻 Tech Stack:
